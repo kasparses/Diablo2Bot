@@ -1,0 +1,79 @@
+{
+	"diablo2_exe_file_path": "E:\\Programs\\Diablo II\\Diablo II.exe",
+	"character_class": "Sorceress",
+	"character_name": "Shalan",
+	"primary_attack_skill": "Chain Lightning",
+	"faster_cast_rate_weaponset_primary": 125,
+	"faster_cast_rate_weaponset_secondary": 80,
+	"left_skill_weaponset_primary": "Lightning",
+	"left_skill_weaponset_secondary": "Charged Bolt",
+	"zone_to_farm": "Black Marsh",
+	"min_gold_to_pickup": 1000,
+	"game_difficulty": "Hell",
+	"game_version": "Classic",
+	"num_belt_columns_reserved_for_healing_potions": 1,
+	"num_belt_columns_reserved_for_mana_potions": 3,
+	"health_limit": 0.75,
+	"health_limit_hard": 0.3,
+	"mana_limit": 0.3,
+	"players_count": 1,
+	"set_game_options": true,
+	
+	"keybindings":
+	{
+		"skills":
+		{
+			"Chain Lightning": "d",
+			"Nova": "f",
+			"Static Field": "x",
+			"Charged Bolt": "F5",
+			"Lightning": "F6",
+			"Telekinesis": "c",
+			"Teleport": "e",
+			"Battle Command": "F1",
+			"Battle Orders": "F2",
+			"Thunder Storm": "F3",
+			"Frozen Armor": "u"
+		},
+
+		"game_interface_actions":
+		{
+			"Automap": "tab",
+			"Inventory": "i",
+			"Belt": "æ",
+			"Items": "alt",
+			"show_portraits": "z",
+			"Chat": "enter"
+		},
+		
+		"miscellaneous":
+		{
+			"swap_weapons": "g"
+		}
+		
+	},
+	
+	"buffs":
+	[
+		{
+			"skill": "Battle Command",
+			"duration": 135,
+			"only_castable_on_secondary_weaponset": true
+		},
+		{
+			"skill": "Battle Orders",
+			"duration": 210,
+			"only_castable_on_secondary_weaponset": true
+		},
+		{
+			"skill": "Thunder Storm",
+			"duration": 192,
+			"only_castable_on_secondary_weaponset": false
+		},
+		{
+			"skill": "Frozen Armor",
+			"duration": 312,
+			"only_castable_on_secondary_weaponset": false
+		}
+	]
+}
