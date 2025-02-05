@@ -1,0 +1,6910 @@
+# Most of the items in Diablo 2 are not worth picking up. We therefore need a loot filter.
+# Each loot filter contains a list of all items and if our character should pick them up or leave them on the ground.  
+
+[items."Cap"]
+grey = false # If we see a "Cap" in grey quality we leave it on the ground.
+common = false # If we see a "Cap" in common quality we leave it on the ground.
+magic = false # If we see a "Cap" in magic quality we leave it on the ground.
+rare = false # If we see a "Cap" in rare quality we leave it on the ground.
+set = false # If we see a "Cap" in set quality we leave it on the ground.
+unique = true # If we see a "Cap" in unique quality we pick it up!
+rune = false # If we see a "Cap" in rune quality we leave it on the ground.
+row_size = 2 # A "Cap" fills 2 rows in our inventory
+col_size = 2 # A "Cap" fills 2 columns in our inventory
+
+[items."Skull Cap"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Full Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Great Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Mask"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Crown"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Bone Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."War Hat"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sallet"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Casque"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Basinet"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Winged Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Death Mask"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Grand Crown"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Grim Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Shako"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Hydraskull"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Armet"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Giant Conch"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Spired Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Demonhead"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Corona"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Bone Visage"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Quilted Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Leather Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Hard Leather Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Studded Leather"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ring Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Scale Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Breast Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Chain Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Splint Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Light Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Field Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Plate Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Gothic Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Full Plate Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ancient Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ghost Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Serpentskin Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Demonhide Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Trellised Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Linked Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Tigulated Mail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Cuirass"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Mesh Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Russet Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Mage Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Sharktooth Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Templar Coat"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Embossed Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Chaos Armor"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ornate Plate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Dusk Shroud"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Wyrmhide"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Scarab Husk"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Wire Fleece"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Diamond Mail"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Loricated Mail"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Great Hauberk"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Boneweave"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Balrog Skin"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Archon Plate"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Kraken Shell"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Hellforge Plate"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Lacquered Plate"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Shadow Plate"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Sacred Armor"]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items.""]
+grey = true
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Buckler"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Small Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Large Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Kite Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Spiked Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Tower Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Bone Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Gothic Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Defender"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Round Shield"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Scutum"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Barbed Shield"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Dragon Shield"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Grim Shield"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Pavise"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ancient Shield"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Heater"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Luna"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Hyperion"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Monarch"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Blade Barrier"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Aegis"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Troll Nest"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ward"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Leather Gloves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Heavy Gloves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Chain Gloves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Light Gauntlets"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Gauntlets"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Demonhide Gloves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sharkskin Gloves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Heavy Bracers"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Battle Gauntlets"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."War Gauntlets"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Bramble Mitts"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Vampirebone Gloves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Vambraces"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Crusader Gauntlets"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Ogre Gauntlets"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Heavy Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Chain Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Light Plated Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Greaves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Demonhide Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sharkskin Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Mesh Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Battle Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."War Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Wyrmhide Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Scarabshell Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Boneweave Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Mirrored Boots"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Myrmidon Greaves"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sash"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Light Belt"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Belt"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Heavy Belt"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Plated Belt"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Demonhide Sash"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Sharkskin Belt"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Mesh Belt"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Battle Belt"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."War Belt"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Spiderweb Sash"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Vampirefang Belt"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Mithril Coil"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Troll Belt"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Colossus Girdle"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 1
+col_size = 2
+
+[items."Hand Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Double Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Military Pick"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."War Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Large Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Broad Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Battle Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Great Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Giant Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Hatchet"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Cleaver"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Twin Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Crowbill"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Naga"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Military Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Bearded Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Gothic Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ancient Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Tomahawk"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Small Crescent"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ettin Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."War Spike"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Berserker Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Feral Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."SilverEdged Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Decapitator"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Champion Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Glorious Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Short Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Hunters Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Long Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Composite Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Short Battle Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Long Battle Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Short War Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Long War Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Edge Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Razor Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Cedar Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Double Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Short Siege Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Large Siege Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Rune Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Gothic Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Spider Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Blade Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Shadow Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Great Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Diamond Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Crusader Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ward Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Hydra Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Light Crossbow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Crossbow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Heavy Crossbow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Repeating Crossbow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Arbalest"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Siege Crossbow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ballista"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Chu Ko Nu"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Pellet Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Gorgon Crossbow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Colossus Crossbow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Demon Crossbow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Dagger"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Dirk"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Kris"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Blade"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Poignard"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Rondel"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Cinquedeas"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Stiletto"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Bone Knife"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Mithril Point"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Fanged Knife"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Legend Spike"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Javelin"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Pilum"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Short Spear"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Glaive"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Throwing Spear"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."War Javelin"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Great Pilum"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Simbilan"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Spiculum"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Harpoon"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Hyperion Javelin"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Stygian Pilum"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Balrog Spear"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Ghost Glaive"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Winged Harpoon"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Club"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Spiked Club"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Mace"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Morning Star"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Flail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."War Hammer"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Maul"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Great Maul"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Cudgel"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Barbed Club"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Flanged Mace"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Jagged Star"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Knout"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Battle Hammer"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."War Club"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Martel de Fer"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Truncheon"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Tyrant Club"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Reinforced Mace"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Devil Star"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Scourge"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Legendary Mallet"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ogre Maul"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Thunder Maul"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Bardiche"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Voulge"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Scythe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Poleaxe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Halberd"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."War Scythe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Lochaber Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Bill"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Battle Scythe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Partizan"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."BecDeCorbin"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Grim Scythe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ogre Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Colossus Voulge"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Thresher"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Cryptic Axe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Great Poleaxe"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Giant Thresher"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Scepter"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Grand Scepter"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."War Scepter"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Rune Scepter"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Holy Water Sprinkler"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Divine Scepter"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Mighty Scepter"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Seraph Rod"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Caduceus"]
+grey = true
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Spear"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Trident"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Brandistock"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Spetum"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Pike"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."War Spear"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Fuscina"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."War Fork"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Yari"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Lance"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Hyperion Spear"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Stygian Pike"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Mancatcher"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ghost Spear"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."War Pike"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Short Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Long Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Gnarled Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Battle Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."War Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Jo Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Quarterstaff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Cedar Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Gothic Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Rune Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Walking Stick"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Stalagmite"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Elder Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Shillelagh"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Archon Staff"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Short Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Scimitar"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Sabre"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Falchion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Crystal Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Broad Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Long Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."War Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Two Handed Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Claymore"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Giant Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Bastard Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Flamberge"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Great Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Gladius"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Cutlass"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Shamshir"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Tulwar"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Dimensional Blade"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Battle Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Rune Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Ancient Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Espandon"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Dacian Falx"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Tusk Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Gothic Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Zweihander"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Executioner Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Falcata"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Ataghan"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Elegant Blade"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Hydra Edge"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Phase Blade"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Conquest Sword"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Cryptic Sword"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Mythical Sword"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Legend Sword"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Highland Blade"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Balrog Blade"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Champion Sword"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Colossus Sword"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Colossus Blade"]
+grey = true
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Throwing Knife"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Balanced Knife"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Throwing Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Balanced Axe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Battle Dart"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."War Dart"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Francisca"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Hurlbat"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Flying Knife"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Winged Knife"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Flying Axe"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Winged Axe"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Wand"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Yew Wand"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Bone Wand"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Grim Wand"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Burnt Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Petrified Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Tomb Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Grave Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Polished Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Ghost Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Lich Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Unearthed Wand"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Jawbone Cap"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Fanged Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Horned Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Assault Helmet"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Avenger Guard"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Jawbone Visor"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Lion Helm"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Rage Mask"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Savage Helmet"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Slayer Guard"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Carnage Helm"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Fury Visor"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Destroyer Helm"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Conqueror Crown"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Guardian Crown"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Wolf Head"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Hawk Helm"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Antlers"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Falcon Mask"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Spirit Mask"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Alpha Helm"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Griffon Headdress"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Hunters Guise"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sacred Feathers"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Totemic Mask"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Blood Spirit"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sun Spirit"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Earth Spirit"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sky Spirit"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Dream Spirit"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Preserved Head"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Zombie Head"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Unraveller Head"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Gargoyle Head"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Demon Head"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Mummified Trophy"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Fetish Trophy"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sexton Trophy"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Cantor Trophy"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Hierophant Trophy"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Minion Skull"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Hellspawn Skull"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Overseer Skull"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Succubus Skull"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Bloodlord Skull"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Targe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Rondache"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Heraldic Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Aerin Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Crown Shield"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Akaran Targe"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Akaran Rondache"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Protector Shield"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Gilded Shield"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Royal Shield"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sacred Targe"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Sacred Rondache"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Kurast Shield"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Zakarum Shield"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Vortex Shield"]
+grey = true
+common = true
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Katar"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Wrist Blade"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Hatchet Hands"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Cestus"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Claws"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Blade Talons"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Scissors Katar"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Quhab"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Wrist Spike"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Fascia"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Hand Scythe"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Greater Claws"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Greater Talons"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Scissors Quhab"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Suwayyah"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Wrist Sword"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."War Fist"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Battle Cestus"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Feral Claws"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Runic Talons"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Scissors Suwayyah"]
+grey = false
+common = false
+magic = false
+rare = false
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Eagle Orb"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Sacred Globe"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Smoked Sphere"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Clasped Orb"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Jareds Stone"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Glowing Orb"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Crystalline Globe"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Cloudy Sphere"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Sparkling Ball"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Swirling Crystal"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Heavenly Stone"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Eldritch Orb"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Demon Heart"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Vortex Orb"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Dimensional Shard"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Stag Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Reflex Bow"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Maiden Spear"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Maiden Pike"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Maiden Javelin"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Ashwood Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ceremonial Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ceremonial Spear"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ceremonial Pike"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Ceremonial Javelin"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Matriarchal Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Grand Matron Bow"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Matriarchal Spear"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Matriarchal Pike"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 4
+col_size = 2
+
+[items."Matriarchal Javelin"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Circlet"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Coronet"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Tiara"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Diadem"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Ring"]
+grey = false
+common = false
+magic = false
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Amulet"]
+grey = false
+common = false
+magic = false
+rare = true
+set = true
+unique = true
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Jewel"]
+grey = false
+common = false
+magic = true
+rare = true
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Small Charm"]
+grey = false
+common = false
+magic = true
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Large Charm"]
+grey = false
+common = false
+magic = true
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Grand Charm"]
+grey = false
+common = false
+magic = true
+rare = false
+set = false
+unique = true
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Chipped Amethyst"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Chipped Sapphire"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Chipped Emerald"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Chipped Ruby"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Chipped Diamond"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Chipped Topaz"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Chipped Skull"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Amethyst"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Sapphire"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Emerald"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Ruby"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Diamond"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Topaz"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawed Skull"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Amethyst"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Sapphire"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Emerald"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Ruby"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Diamond"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Topaz"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Skull"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Amethyst"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Sapphire"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Emerald"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Ruby"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Diamond"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Topaz"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Flawless Skull"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Amethyst"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Sapphire"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Emerald"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Ruby"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Diamond"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Topaz"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Perfect Skull"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."El Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Eld Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Tir Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Nef Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Eth Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ith Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Tal Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ral Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ort Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Thul Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Amn Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Sol Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Shael Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Dol Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Hel Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Io Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Lum Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ko Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Fal Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Lem Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Pul Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Um Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Mal Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ist Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Gul Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Vex Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ohm Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Lo Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Sur Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Ber Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Jah Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Cham Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Zod Rune"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = true
+row_size = 1
+col_size = 1
+
+[items."Minor Healing Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Light Healing Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Healing Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Greater Healing Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Super Healing Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Minor Mana Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Light Mana Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Mana Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Greater Mana Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Super Mana Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Rejuvenation Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Full Rejuvenation Potion"]
+grey = false
+common = true
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Fulminating Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Exploding Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Oil Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Strangling Gas Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Choking Gas Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Rancid Gas Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Thawing Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Antidote Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Stamina Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Key"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Scroll of Identify"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Scroll of Town Portal"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Arrows"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Bolts"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Burning Essence of Terror"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Charged Essence of Hatred"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Festering Essence of Destruction"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Twisted Essence of Suffering"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Token of Absolution"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Standard of Heroes"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Mephistos Brain"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Baals Eye"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Diablos Horn"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Key of Terror"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Key of Hate"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Key of Destruction"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Scroll of Resistance"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Malah's Potion"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Hellforge Hammer"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Mephisto's Soulstone"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Khalim's Will"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Khalim's Flail"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 2
+
+[items."Khalim's Heart"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Khalim's Brain"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Khalim's Eye"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Lam Esens Tome"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."The Gidbinn"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Potion of Life"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."The Golden Bird"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."A Jade Figurine"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Horadric Staff"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 4
+col_size = 1
+
+[items."Amulet of the Viper"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 1
+col_size = 1
+
+[items."Staff of Kings"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Horadric Cube"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Horadric Scroll"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Book of Skill"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2
+
+[items."Horadric Malus"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 1
+
+[items."Wirt's Leg"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 3
+col_size = 1
+
+[items."Scroll of Inifuss"]
+grey = false
+common = false
+magic = false
+rare = false
+set = false
+unique = false
+rune = false
+row_size = 2
+col_size = 2

@@ -1,0 +1,5 @@
+# Path to your Diablo II installation.
+diablo2_folder_path = "/home/kasper/Dropbox/Gaming/Diablo II"
+
+# Your operating system. Can be Windows or Linux. If you are running Linux you must have Wine, xdotool and wmctrl installed.
+operating_system = "Linux"

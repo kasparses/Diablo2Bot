@@ -1,0 +1,17 @@
+pub const MINOR_HEALING_POTION: &str = "Minor Healing Potion";
+pub const LIGHT_HEALING_POTION: &str = "Light Healing Potion";
+pub const HEALING_POTION: &str = "Healing Potion";
+pub const GREATER_HEALING_POTION: &str = "Greater Healing Potion";
+pub const SUPER_HEALING_POTION: &str = "Super Healing Potion";
+pub const MINOR_MANA_POTION: &str = "Minor Mana Potion";
+pub const LIGHT_MANA_POTION: &str = "Light Mana Potion";
+pub const MANA_POTION: &str = "Mana Potion";
+pub const GREATER_MANA_POTION: &str = "Greater Mana Potion";
+pub const SUPER_MANA_POTION: &str = "Super Mana Potion";
+pub const REJUVENATION_POTION: &str = "Rejuvenation Potion";
+pub const FULL_REJUVENATION_POTION: &str = "Full Rejuvenation Potion";
+pub const STAMINA_POTION: &str = "Stamina Potion";
+pub const ANTIDOTE_POTION: &str = "Antidote Potion";
+pub const THAWING_POTION: &str = "Thawing Potion";
+pub const SCROLL_OF_TOWN_PORTAL: &str = "Scroll of Town Portal";
+pub const SCROLL_OF_IDENTIFY: &str = "Scroll of Identify";

@@ -1,0 +1,110 @@
+# If the bot should save logs while running.
+save_logs = false
+
+# The maximum runs the bot should do before stopping.
+# The bot will keep running until it has no more space in its stash and inventory or it reaches this number.
+max_game_runs = 1000
+
+# The program creates a computer vision model for detecting monster for each areas in the game (Cold Plains, Stony Field, River of Flame, etc.)
+# When the program has created a model for an area it will save a cached version of that file in the cache/monster_matcher folder.
+# This enables us to load the model faster as we do not have to create it from scratch each time.
+# When the bot runs it may move from one area to another. It may for example move from Cold Plains to Stony Field.
+# When this happens the program will have to create the model for Stony Field from scratch if we do not have a cached model.
+# This can cause the bot to be unresponsive while creating the model.
+# This leads to a risk of the character dying while waiting for the new model to load.
+# If this setting is set to true we will ensure that a cached model for all areas connected to our chosen farming zone are created.
+# If Cold Plains for example is our farming zone then models for Blood Moor, Stony Field and Burial Grounds will be created before we the bot starts.
+pre_cache_connected_areas = true
+
+# Spawns a thread for each area and generate the models in parallel
+# Has a higher total memory usage than sequential generation
+pre_cache_connected_areas_multiple_threads = true
+
+# When this is enabled one can stop the bot by manually moving the mouse around for approximately a second.
+# It is recommended to only enable this when testing or debugging the program.
+enable_mouse_movement_program_stopper = true
+
+# Unique and champion monsters have different colors than normal monsters.
+# When this is enabled the monster detector will also be able to detect unique and champion monsters.
+# This causes the program to use significantly more memory.
+# If you are running the bot on a old machine it may be useful to set this to false (remember to delete the existing cached models from the cache/monster_matcher folder).
+match_unique_and_champion_monsters = true
+
+# The monster detector works by looking for small 4x4 pixel windows on a monster.
+# This setting determines how many of these windows we will include for each possible sprite frame.
+# Higher number of windows per sprite frame increases the probability of detecting a monster but also increases the memory usage.
+max_windows_per_sprite_frame = 1
+
+# The maximum amount of frames (one frame is 40 milliseconds) we wish to wait for different types of actions before stopping the program.
+# If the action has not happened after a certain amount of time it may indicate that something has gone wrong.
+max_frames_to_wait_for_ui_action = 100
+max_frames_to_wait_for_enter_game = 200
+max_frames_to_wait_for_exit_game = 200
+max_frames_to_wait_for_zone_load = 100
+max_frames_to_wait_for_locate_game_window = 200
+
+num_frames_to_sleep_after_lifting_held_key = 1
+num_frames_to_sleep_before_looting_after_attacking_monsters = 3
+num_frames_to_sleep_after_attacking_monsters = 14
+num_frames_to_sleep_after_scanning_screen_for_monsters = 2
+num_frames_to_sleep_after_casting_buffs_on_secondary_weaponset = 10
+
+# The amount of frames to wait between each purchase of an item at a merchant.
+# Useful for purchases of potions.
+# Setting a too low cooldown will result missed purchases.
+merchant_purchase_cooldown_frames = 12
+
+# The program works by moving the character around in the specified zone and killing monsters thereafter picking up loot.
+# These settings specify the manner in which the program should move around the zone.
+# Altering these settings can result in "funky" behavior.
+[movement_settings]
+
+# How many movements should the character do before scanning the map again and planning a new route.
+max_movements_before_automap_path_refresh = 3
+
+# How many times we should scan the map and plan a route before we exit the game and start over.
+# This setting is tightly related to the max_movements_before_automap_path_refresh setting.
+max_automap_path_refresh_before_game_refresh = 32
+
+# The path the bot chooses to take is partly random.
+# It chooses a number of random destination points according to this setting.
+# It then ranks the paths to these points based on how many already seen areas we pass through on our way there.
+# The lower the amount of seen areas in a path the better.
+# We then chooses the best ranked path.
+# The lower the number in this setting the more randomly the bots moves.
+num_random_destination_points_to_choose_from = 16
+
+# When we get a path we immediately mark this number of the path's tiles as walked.
+# When we later gets another path, this area of the map is ranked lower than other areas of the map where we have not already been
+max_num_tiles_from_path_to_mark_as_walked = 24
+
+# Mysterious setting.
+wide_start_size = 4
+
+# Whenever the character exits an attack_monsters session it extracts the name of the items on the ground and picks them up based on the loot filter specified in the character's profile.
+[loot_settings]
+# These settings specifies how many items of each category to pick up.
+# Sometimes it is not possible for the character to pick up an item if for example it is behind a wall.
+# Therefore we must specify a maximum number to avoid a potential infinite loop.
+max_potions_to_pickup_per_loot_session = 4
+max_items_to_pickup_per_loot_session = 4
+max_gold_piles_to_pickup_per_loot_session = 4
+
+num_frames_to_sleep_after_activating_loot_text = 2
+num_frames_to_sleep_after_picking_up_item = 3
+
+[stash_settings]
+num_frames_to_sleep_after_picking_up_item_from_inventory_before_moving_it_to_stash = 4
+num_frames_to_sleep_after_placing_item_in_stash = 4
+num_frames_to_sleep_after_placing_items_in_stash = 4
+num_frames_to_sleep_after_moving_gold_to_stash = 4
+
+[game_startup_settings]
+# When the program starts it checks if the game is already started.
+# If the game is not already started then the program starts the game and checks every x milliseconds if it is started according to this setting
+check_game_started_cooldown_milliseconds = 12
+
+# The maximum amount of milliseconds to wait for the program to start.
+# If the game is not started after this many milliseconds it can indicate that the program cannot start the game correctly.
+# In that case one can ensure that the game is started before starting the program.
+max_milliseconds_check_game_started = 5000

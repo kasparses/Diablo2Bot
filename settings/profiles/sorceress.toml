@@ -1,0 +1,123 @@
+# The name of your character. Needed to select the character in the single player menu.
+character_name = "Shalan"
+
+# The name of the loot filter we want to use. See the "item_filters" folder.
+item_filter = "default"
+
+# Your character's class. Needed to calculate faster cast rate breakpoints.
+character_class = "Sorceress"
+
+# The spell your character will use to kill monsters.
+primary_attack_skill = "Chain Lightning"
+
+# How much faster cast rate you have with weaponset Ⅰ.
+faster_cast_rate_weaponset_primary = 125
+
+# How much faster cast rate you have with weaponset Ⅱ.
+faster_cast_rate_weaponset_secondary = 80
+
+# The skill selected in the left field (next to the health globe) with weaponset Ⅰ. Used to validate weapon switches.
+left_skill_weaponset_primary = "Lightning"
+
+# The skill selected in the left field (next to the health globe) with weaponset Ⅱ. Used to validate weapon switches.
+left_skill_weaponset_secondary = "Charged Bolt"
+
+# The name of the zone where we will kill monsters. Must be a zone where the character has the waypoint.
+zone_to_farm = "Black Marsh"
+
+# Any gold piles below this amount will be not be picked up.
+min_gold_to_pickup = 1000
+
+# The difficulty. Can be Normal, Nightmare or Hell.
+game_difficulty = "Hell"
+
+# How many of the belt columns we reserve for healing potions.
+num_belt_columns_reserved_for_healing_potions = 1
+
+# How many of the belt columns we reserve for mana potions.
+num_belt_columns_reserved_for_mana_potions = 3
+
+# When the character's health drops below this limit we will drink a healing potion.
+health_limit = 0.75
+
+# When the character's health drops below this limit we will instantly exit the game and start over.
+health_limit_hard = 0.3
+
+# When the character's mana drops below this limit we will drink a mana potion.
+mana_limit = 0.3
+
+# How many players the game will simulate is in the game. Increases difficulty and loot drop rates if above 1.
+players_count = 1
+
+# If true the program will set these setings:
+# "Lighting Quality" = "Low",
+# "Automap Size" = "Full Screen",
+# "Fade" = "No"
+# "Show Party" = "No"
+# If false the program will assume that these settings are set already.
+set_game_options = false
+
+
+# Keybinding of the the character's spells and abilities:
+[keybindings.skills]
+"Chain Lightning" = "d"
+"Nova" = "f"
+"Static Field" = "x"
+"Charged Bolt" = "F5"
+"Lightning" = "F6"
+"Telekinesis" = "c"
+"Teleport" = "e"
+"Battle Command" = "F1"
+"Battle Orders" = "F2"
+"Thunder Storm" = "F3"
+"Frozen Armor" = "u"
+
+# Keybindings of game interface actions. It is very important that the bindings specified here match the actual bindings specified in the game. If they do not match the program will not function correctly.
+[keybindings.game_interface_actions]
+# Keybinding to toggle the automap.
+Automap = "tab"
+
+# Keybinding to open the inventory.
+Inventory = "i"
+
+# Keybinding to open the belt.
+Belt = "9"
+
+# Keybinding to show the text of the items laying on the ground.
+Items = "alt"
+
+# Keybinding to toggle the mercery/helper portraits.
+Portraits = "z"
+
+# Keybinding to enter the chat/command window
+Chat = "enter"
+
+[keybindings.miscellaneous]
+# Keybinding to swap weapons.
+swap_weapons = "g"
+
+# Buffs we want our character to apply.
+[[buffs]]
+# The name of the buff spell. Keybinding for the buff spell must be typed in the "keybindings.skills" section.
+skill = "Battle Command"
+
+# The duration of the buff. Refreshes the buff after the duration.
+duration = 135
+
+# If the buff comes from a weapon on your character's secondary weaponset set this to true. Then the character will switch weaponsets before casting the buff.
+only_castable_on_secondary_weaponset = true
+
+[[buffs]]
+skill = "Battle Orders"
+duration = 210
+only_castable_on_secondary_weaponset = true
+
+[[buffs]]
+skill = "Thunder Storm"
+duration = 192
+only_castable_on_secondary_weaponset = false
+
+[[buffs]]
+skill = "Frozen Armor"
+duration = 312
+only_castable_on_secondary_weaponset = false
