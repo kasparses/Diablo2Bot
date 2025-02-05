@@ -15,7 +15,11 @@ The bot must be able to:
 ## Sample video
 Here is a sample video of the bot running my lightning sorceress through `Cold Plains`:  
   
-![sorceress_cold_plains](recordings/cold_plains.mp4)
+
+
+https://github.com/user-attachments/assets/3ccce464-c275-4412-9d88-22868042c81d
+
+
 
 ## Setup
 
